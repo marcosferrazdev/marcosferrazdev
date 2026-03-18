@@ -66,6 +66,4 @@ Currently pursuing a Master's degree in Artificial Intelligence and Optimization
 
 ---
 
-## ⚡ Fun Fact
-
 > "Great software is built where performance meets experience."
