@@ -53,7 +53,7 @@ Currently pursuing a Master's degree in Artificial Intelligence and Optimization
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-link">
+  <a href="https://www.linkedin.com/in/marcos-ferraz-776137199/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:marcosvitorferraz4@gmail.com">
